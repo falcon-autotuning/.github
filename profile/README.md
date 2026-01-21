@@ -48,7 +48,7 @@ Repository conventions & signals
 
 Governance & community norms
 - Lightweight maintainer model by repository. PR reviews and tests are required for code merges.
-- Please follow the Code of Conduct (add link once CODE_OF_CONDUCT.md is in the org).
+- Please follow the [Code of Conduct](https://github.com/falcon-autotuning/.github/blob/main/CODE_OF_CONDUCT.md).
 - Security or sensitive issues: report privately to the maintainers listed in SECURITY.md (add when available).
 
 Licenses
