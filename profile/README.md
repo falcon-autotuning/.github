@@ -1,13 +1,13 @@
-# FALCon — Autotuning for Quantum-Dot Qubits ⚛️🚀
+# FAlCon — Autotuning for Quantum-Dot Qubits ⚛️🚀
 
-TL;DR — FALCon is a community-driven ecosystem building the tools that help labs get quantum-dot devices back into operation faster and more reproducibly. 
+TL;DR — FAlCon is a community-driven ecosystem building the tools that help labs get quantum-dot devices back into operation faster and more reproducibly. 
 This org is actively under development: repos, demos, and example flows are coming online. Welcome — you’ve found the project's front door.
 
 ![status:work-in-progress](https://img.shields.io/badge/status-work--in--progress-orange)
 ![license-multi](https://img.shields.io/badge/license-MPL%20%2F%20BSD-blue)
 
 Why this org exists
-- Experiments take too long to recover after maintenance and cooldowns. FALCon makes the recovery and tuning steps repeatable and sharable across labs.
+- Experiments take too long to recover after maintenance and cooldowns. FAlCon makes the recovery and tuning steps repeatable and sharable across labs.
 - We build instrument adapters, measurement logging, simulation harnesses, reusable autotuning algorithms, and user-facing tooling that together span the full measurement stack.
 - This is the org-level entry: think of this README as the map and invitation to join a community shaping the toolkit.
 
