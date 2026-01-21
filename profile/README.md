@@ -1,4 +1,4 @@
-# FALCon — Autotuning for Quantum-Dot Qubits 🚀
+# FALCon — Autotuning for Quantum-Dot Qubits ⚛️🚀
 
 TL;DR — FALCon is a community-driven ecosystem building the tools that help labs get quantum-dot devices back into operation faster and more reproducibly. 
 This org is actively under development: repos, demos, and example flows are coming online. Welcome — you’ve found the project's front door.
