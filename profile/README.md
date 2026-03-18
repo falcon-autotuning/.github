@@ -43,5 +43,5 @@ Governance & community norms
 Licenses
 - Components use MPL and BSD-3-Clause; check each repository's LICENSE file for specifics.
 
-If you find this repo useful, cite us: https://arxiv.org/pdf/2603.16650https://arxiv.org/pdf/2603.16650
+If you find this repo useful, [cite us](https://arxiv.org/pdf/2603.16650)
   
